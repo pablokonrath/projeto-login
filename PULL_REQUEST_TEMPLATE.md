@@ -95,4 +95,4 @@ A imagem Docker criada para este projeto inclui um serviço MySQL 5.7 configurad
 - John
 - Ricardo
 - Felipe Zündler
-- Leonardo
+- Leonardo Perez
