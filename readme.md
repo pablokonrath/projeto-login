@@ -10,13 +10,13 @@ Antes de começar, certifique-se de ter o Docker e o Docker Compose instalados n
 1. Clone o repositório para a sua máquina local:
 
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/pablokonrath/projeto-login.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```sh
-   cd seu-repositorio
+   cd nome_da_pasta_criada_para_projeto
    ```
 
 3. Certifique-se de que os arquivos `Dockerfile` e `docker-compose.yml` estão no diretório raiz do projeto.

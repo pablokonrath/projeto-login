@@ -4,6 +4,8 @@
 
 Este projeto consiste em uma página de login desenvolvida em PHP, criada como parte de um curso de desenvolvimento web. A página permite que usuários autenticados acessem um sistema web protegido por senha, proporcionando uma experiência segura e intuitiva para os usuários finais.
 
+![Tela Principal de Login](./src/image/pagina-login.jpg)
+
 ### Funcionalidades Principais
 
 - **Autenticação de Usuários:** Permite que os usuários ingressem suas credenciais (nome de usuário e senha) para acessar o sistema.
@@ -89,6 +91,7 @@ A imagem Docker criada para este projeto inclui um serviço MySQL 5.7 configurad
 
 ## Contribuidores
 
+- Pablo
 - John
 - Ricardo
 - Felipe
