@@ -17,9 +17,10 @@ Este projeto consiste em uma página de login desenvolvida em PHP, criada como p
 - **HTML/CSS:** Utilizados para criar a estrutura e o estilo visual da página de login.
 - **MySQL:** Banco de dados utilizado para armazenar informações de usuários e suas credenciais de acesso.
 
-### Objetivo
+### Objetivo do Projeto
 
-O objetivo principal deste projeto é proporcionar uma solução eficaz e segura para gerenciar o acesso ao sistema, utilizando tecnologias modernas e práticas recomendadas de desenvolvimento web.
+O principal objetivo deste projeto foi proporcionar uma experiência prática e educativa no uso do Docker, uma ferramenta essencial para a containerização de aplicações. Ao desenvolver uma página de login em PHP e configurar o ambiente utilizando Docker.
+Ao concluir este projeto, o grupo adquiriu uma compreensão sólida dos benefícios e desafios da utilização de Docker no desenvolvimento de aplicações web, bem como a capacidade de aplicar esses conhecimentos em projetos futuros.
 
 ## Alterações Realizadas
 
