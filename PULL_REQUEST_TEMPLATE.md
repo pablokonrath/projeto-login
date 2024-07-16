@@ -92,7 +92,7 @@ A imagem Docker criada para este projeto inclui um serviço MySQL 5.7 configurad
 ## Contribuidores
 
 - Pablo Konrath
-- John
+- John Lennon Andrade
 - Ricardo
 - Felipe Zündler
 - Leonardo Perez
